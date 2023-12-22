@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" align="right" width="400" height="250">
 
-<!--
-**thetxbi/thetxbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm thetxbi(Tobi). :blush:
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Venslore&color=blueviolet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Java Bot Developer
+
+## Discord ┃ thetxbi
+
+Languages: 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+Databases: 
+![MYSQL](https://img.shields.io/badge/-MYSQL-47A248?style=flat-square&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 📚 Staff:
+- riefty riefty.net (Administrator)
+- Aquaris aquarismc.net (Helper)
+<br />
+
+<details>
+<summary>:bulb: Github Stats</summary>
+</details>
+
+<details>
+<summary>:bulb:  Most Used Languages</summary>
+</details>
