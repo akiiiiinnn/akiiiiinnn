@@ -13,7 +13,7 @@ Languages:
 
 Databases: 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📚 Staff:
 - riefty riefty.net (Administrator)
