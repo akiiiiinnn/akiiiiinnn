@@ -17,7 +17,9 @@ Databases:
 
 ### 📚 Staff:
 - riefty riefty.net (Administrator)
-- Aquaris aquarismc.net (Helper)
+- cynatoxia cynatoxia.net (Developer)
+- ultra ultra.rip (Moderator)
+- aquaris aquarismc.net (Helper)
 <br />
 
 <details>
