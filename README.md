@@ -15,11 +15,6 @@ Databases:
 ![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 📚 Staff:
-- riefty riefty.net (Administrator)
-- cynatoxia cynatoxia.net (Developer)
-- ultra ultra.rip (Moderator)
-- aquaris aquarismc.net (Helper)
 <br />
 
 <details>
