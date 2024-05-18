@@ -10,7 +10,7 @@
 
 Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-F29111?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-F29111?style=flat-square&logo=html&logoColor=white)
 
 <br />
 
