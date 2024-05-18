@@ -10,10 +10,7 @@
 
 Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-Databases: 
-![MYSQL](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=mysql&logoColor=white)
-![MONGODB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/-MYSQL-F29111?style=flat-square&logo=mysql&logoColor=white)
 
 <br />
 
